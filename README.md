@@ -91,7 +91,7 @@ As 2PS is not meant to be an anonymous platform but a place where authors and fi
 
 2PS uses automatic tools as passport scanning and facial recognition AI softwares to verify users faster. In case of conflicts, human verifications might occur. In such case, the 2PS team keeps the right to decline incomplete or suspicious applications at any time and at its discretion.
 
-**Users whom do not use the uploading tool (buy only) do not require to register their identity on 2PS.**
+**Users whom do not use the uploading tool (buy only) are not required to register their identity on 2PS.**
 
 ### 6.1.3. Initial “Proof of Ownership”:
 
