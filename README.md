@@ -301,3 +301,6 @@ We will progressively reinforce the team after the first round of presales and s
 <p align="center">
 <img align="200" img width="300" alt="2PS icon" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/2ps%20icon.png?raw=true">
 </p>
+
+PDF version: [here](https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/2PS%20Whitepaper.pdf)
+Hash (SHA-256): 14adb307cc9eb7b3931afa72143e51a210f1dfcbc844e6e9c5826ea049ee8f06
