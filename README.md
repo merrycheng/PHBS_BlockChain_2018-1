@@ -1,12 +1,9 @@
 # 2PS: A Proof-of-Ownership P2P file-sharing platform
 
 <p align="center">
- Arthur MEUNIER
-	
- arthur.meunier@cpe.fr
- 
- www.2ps.io
- 
+ *Arthur MEUNIER	
+ *arthur.meunier@cpe.fr
+ *www.2ps.io
 <img width="100" alt="2PS icon" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/2ps%20icon.png?raw=true">
 </p>
 
@@ -59,7 +56,7 @@ In a second development phase, however, a separate 2PS main chain, optimized for
 
 ## 4.3. Supply and distribution:
  	
-Initial token will have a supply of 10,000,000,000 2PS with a sub unit of 10-9. Such a large distribution has been proven to favor a wider distribution between users than lower amounts, helping to fight speculation and monopolies. The token is 90%* pre-minted (see 8a) with an initial global distribution as follow:
+Initial token will have a supply of 10,000,000,000 2PS with a sub unit of 10-9. Such a large distribution has been proven to favor a wider distribution between users than lower amounts, helping to fight speculation and monopolies. The token is 90%* pre-minted (see 8.1) with an initial global distribution as follow:
 
 -	ITO (pre-sales in 3 rounds): 30%
 -	Airdrop to existing EOS wallets: 10%
@@ -72,6 +69,7 @@ Initial token will have a supply of 10,000,000,000 2PS with a sub unit of 10-9. 
 # 5. A Multifunctional wallet: The 2PS platform
 
 The 2PS wallet is designed not only to hold 2PS tokens but to assist users through the full usage of the 2PS environment. Being more than a usual wallet holding your private and public keys, this multifunctional tool is referred to as the 2PS platform. Natively, the 2PS platform has the initial following features, described separately and in detail in the following sections: 
+
 -	File uploading: encryption and file ownership insertion into the blockchain;
 -	Ownership management (transfer and authorizations) within the blockchain;
 -	P2P sharing protocol;
