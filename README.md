@@ -9,7 +9,7 @@
 
 Files sharing is today relatively challenging regarding copyrights, ownership and property rights over original contents. Often, authors and media providers want to control and monetize the diffusion of digital files over the world wide web. 2PS is aiming to provide a trustworthy environment inside which files’ ownership, distribution and monetization is fairly and securely managed. 
 
-By building a Proof-of-Ownership platform relying on a cryptographic file-encryption protocol, the integrity, diffusion and ownership of the files are preserved among all participants allowing to maintain their owner’s rights at any time.
+By building a Proof-of-Ownership platform relying on a cryptographic file-encryption protocol, the integrity, diffusion and ownership of the files are preserved among all participants allowing to maintain owner’s rights at any time.
 
 
 # 1. Introduction:
