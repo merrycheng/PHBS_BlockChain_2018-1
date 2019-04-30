@@ -288,5 +288,6 @@ We will progressively reinforce the team after the first round of presales and s
 
 ### IMPORTANT DISCLAIMER: This whitepaper represents the current idea the 2PS team is having of its product and is subject to change without notice. Nothing should be interpreted as a statement of fact or promise in any kind. It is released in order to give a general understanding of the 2PS concept.
 
+<p align="center">
 <img align="200" img width="300" alt="2PS icon" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/2ps%20icon.png?raw=true">
-	
+</p>
