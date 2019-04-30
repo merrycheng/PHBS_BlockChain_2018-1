@@ -219,7 +219,7 @@ As an incentive for users to share their hardware and connectivity, fees taken f
 
 During the launching period and over a period of 10 years, 10% of the total supply of the 2PS token will be released progressively with an increasing difficulty. It is designed to give extra rewards and incentives for people sharing their resources at the beginning: 
 
-<img width="500" alt="principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/incentives.png?raw=true">
+<img width="500" img align="100" alt="principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/incentives.png?raw=true">
 
 ## 8.3. Going offline issue:
 
@@ -288,5 +288,5 @@ We will progressively reinforce the team after the first round of presales and s
 
 ### IMPORTANT DISCLAIMER: This whitepaper represents the current idea the 2PS team is having of its product and is subject to change without notice. Nothing should be interpreted as a statement of fact or promise in any kind. It is released in order to give a general understanding of the 2PS concept.
 
-<img width="300" alt="principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/2ps%20icon.png?raw=true">
+<img width="300" img align="200" alt="principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/2ps%20icon.png?raw=true">
 	
