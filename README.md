@@ -1,9 +1,10 @@
 # 2PS: A Proof-of-Ownership P2P file-sharing platform 
-* Arthur MEUNIER
-* arthur.meunier@cpe.fr
-* www.2ps.io
+<p align="center">
+ Arthur MEUNIER
+ arthur.meunier@cpe.fr
+ www.2ps.io
 <img width="100" alt="2PS icon" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/2ps%20icon.png?raw=true">
-
+</p>
 ## Abstract. 
 
 Files sharing is today relatively challenging regarding copyrights, ownership and property rights over original contents. Often, authors and media providers want to control and monetize the diffusion of digital files over the world wide web. 2PS is aiming to provide a trustworthy environment inside which files’ ownership, distribution and monetization is fairly and securely managed. 
@@ -218,9 +219,9 @@ The distribution is managed by smart contracts to record where the different pie
 As an incentive for users to share their hardware and connectivity, fees taken for uploading a new files or opening a 2PS smart contract (transactions) are distributed among these users sharing their resources according to the percentage shared compared to the whole network. Fees are calculated and redistributed automatically every 24h (UTC+0).
 
 During the launching period and over a period of 10 years, 10% of the total supply of the 2PS token will be released progressively with an increasing difficulty. It is designed to give extra rewards and incentives for people sharing their resources at the beginning: 
-
+<p align="center">
 <img align="100" img width="500" alt="incentives" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/incentives.png?raw=true">
-
+</p>
 ## 8.3. Going offline issue:
 
 If a sharing user is found offline for more than 10/24h or 6h in a raw, all incentives for this user are cancelled for the (24h) period. If the offline period reaches 7 days in a raw, files allocated to this user are duplicated and attributed to other nodes. This faulty user is also forbidden of sharing any files (and consequently get rewards) for 30 days following the situation. 
