@@ -295,7 +295,7 @@ In order to fight piracy and illegal copies more efficiently on the 2PS platform
 
 2.	**On screen video/music recording**: music and video files are paused if the software detects such an attack;
 
-3.	**Copy-paste**: documents are read only (appear like an image) disregarding the ownership state of the user. Thus, even if the owner has a full ownership over the copy he is not authorized to edit it or copy paste it.
+3.	**Copy-paste**: documents are read only (appear like an image) disregarding the ownership state of the user. Thus, even if the owner has a full ownership over the copy he is not authorized to edit it or able to copy-paste its content.
 
 4.	**Screen pictures using smartphones or camera**: Unfortunately, 2PS has currently no perfect solution at hand to protect from this kind of attack. However, quality won’t be as good as the original.
 
