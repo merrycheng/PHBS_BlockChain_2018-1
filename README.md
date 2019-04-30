@@ -257,9 +257,9 @@ In a **second phase of deployment**, when the amount of verified users become co
 
 Opening a sharing (selling) contract for a file on 2PS is generating 2 kinds of fees:
 
-1-	**Storage fees**: When a contract is opened, the file’s owner can determine a duration for it to stay valid. Indeed, the contract can’t be open and hosted for free forever*. It also has to pay for the service given by hosts that borrow their resources to make the file available. These fees are taken as 0.01% of the contract value per day. It is also a way to keep only valuable content available to users.
+1.	**Storage fees**: When a contract is opened, the file’s owner can determine a duration for it to stay valid. Indeed, the contract can’t be open and hosted for free forever*. It also has to pay for the service given by hosts that borrow their resources to make the file available. These fees are taken as 0.01% of the contract value per day. It is also a way to keep only valuable content available to users.
 
-2-	**Transaction fees**: a transaction fee of 0.02% is taken by the platform once a contract between users is passed through the marketplace.
+2.	**Transaction fees**: a transaction fee of 0.02% is taken by the platform once a contract between users is passed through the marketplace.
 
 *Note: Even if the user does not want to share or sell a file through the 2PS marketplace, he/she always has the possibility upload, hash and register his/her original file into the 2PS blockchain as a proof of her/his ownership over it (free service). 
 
