@@ -26,7 +26,7 @@ Today, popular file sharing platforms and related services are diverse and often
 
 This illegal sharing-ability is amplified by unregulated p2p protocols such as BitTorrent which often denies responsibilities, arguing that any fraudulent use made of its platform (even if representing the majority of the files exchanged) is not of its concerns, as being a service provider. The lack of possibilities for regulations and the difficulty for user-tracking in such platform is made challenging. In an international context, it is particularly difficult for authorities to identify and convict involved individuals. First, because they are often physically or virtually (VPNs) out of their jurisdiction and second, because they are quickly replaced.
  
-Building a trusted, decentralized and blockchain-enabled authentication protocol able to verify that the user has legitimate rights over the file before being able to play and/or open it would consequently be answering some of those problems. Here comes 2PS.
+Building a trusted, decentralized and blockchain-enabled authentication protocol, able to verify that the user has legitimate rights over the file before being able to play and/or open it, would consequently be answering some of those problems. 2PS is designed to answer these issues.
 
 # 3. Built on EOS:
 
