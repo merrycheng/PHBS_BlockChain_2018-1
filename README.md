@@ -165,7 +165,7 @@ In order to read or open the file, the following condition must be satisfied: th
 <bold> <p align="center"> PASSWORD = HASH(Root ID) = P1 </p></bold>
 
 In other words, the file will first require the 2PS platform to look after the last contract (transaction) passed by the user (identified by public key, included in any contract passed) within the blockchain and regarding the file (identified by its Root ID). 
-The file encryption protocol, once connected to the contract will read the authorized password. If the user can provide the same password than the one in the blockchain by hashing the Root ID of the file with his private key, then the ownership is confirmed and the file can be opened.
+The file encryption protocol, once connected to the contract will read the authorized password. If the user can provide the same password than the one in the blockchain by hashing the Root ID of the file with his private key, then the ownership is confirmed and the file can be open.
 
 If the condition is not met, the encrypted file and the 2PS platform will consider the user as not being a legitimate owner of the file and will decline the access.
 
