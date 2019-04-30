@@ -83,7 +83,7 @@ The 2PS wallet is designed not only to hold 2PS tokens but to assist users throu
 
 The 2PS platform is built with AI and machine learning algorithms here to determine if an uploaded content is unique before publication on the platform. By comparing the file to online public databases, it seeks for existing similarities (Similar to what Shazaam is for music, google image for images, plagiarism algorithms for texts and documents and automatic verifications on YouTube for videos). 
 
-In other words, if the content is already present elsewhere else over the web, it won’t be possible to upload it on 2PS, except by fulfilling special conditions leading to obtain a **fully verified official account** (See 1.7).
+In other words, if the content is already present elsewhere over the web, it won’t be possible to upload it on 2PS, except by fulfilling special conditions leading to obtain a **fully verified official account** (See 1.7).
 
 ### 6.1.2. Users verification:
 
