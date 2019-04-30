@@ -54,7 +54,7 @@ In a second development phase, however, a separate 2PS main chain, optimized for
 
 ## 4.3. Supply and distribution:
  	
-Initial token will have a supply of 10,000,000,000 2PS with a sub unit of 10-9. Such a large distribution has been proven to favor a wider distribution between users than lower amounts, helping to fight speculation and monopolies. The token is 90%* pre-minted (see 8.1) with an initial global distribution as follow:
+2PS total supply has been fixed to 10,000,000,000 2PS with a sub unit of 10-9. Such a large supply is known to favor a wider distribution between users than lower amounts, helping to fight speculation and monopolies. The token is 90%* pre-minted (see 8.1) with an initial global distribution as follow:
 
 -	ITO (pre-sales in 3 rounds): 30%
 -	Airdrop to existing EOS wallets: 10%
