@@ -48,7 +48,7 @@ The 2PS token is created by opening a smart contract on the EOS blockchain (EOS 
 
 ## 4.2. Second phase:
 
-In a second development phase, however, a separate 2PS main chain, optimized for its exclusive use (Thus allowing more flexibility for further improvements), is planned to be released as a hard fork of EOS with potential modifications of its source code and a conversion ratio from the initial 2PS token of 1:1. 
+In a second development phase, however, a separate 2PS main chain, optimized for its exclusive use (Thus allowing more flexibility for further improvements), is planned to be released as a hard fork of EOS with potential modifications of its source code and at a conversion ratio from the initial 2PS token of 1:1. 
 
 2PS token is meant to be used as the main payment system through the 2PS platform in order to settle transactions quickly at low fees. 
 
