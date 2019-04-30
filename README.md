@@ -1,11 +1,9 @@
 # 2PS: A Proof-of-Ownership P2P file-sharing platform
 
-<p align="center">
- *Arthur MEUNIER	
- *arthur.meunier@cpe.fr
- *www.2ps.io
-<img width="100" alt="2PS icon" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/2ps%20icon.png?raw=true">
-</p>
+<p align="center"> Arthur MEUNIER </p>	
+<p align="center"> arthur.meunier@cpe.fr </p>
+<p align="center"> www.2ps.io </p>
+<p align="center"><img width="100" alt="2PS icon" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/2ps%20icon.png?raw=true"></p>
 
 ## Abstract. 
 
@@ -145,7 +143,7 @@ Users are able to drag and drop or upload files into the 2PS wallet’s interfac
 
 ### 6.2.2 Encryption (step 2.1.3)
 
-The encryption process of the file consists at password-protecting it using the AES algorithm (Rijndael). The particularity of this encryption method is that it is a two-way algorithm (possibility to code and decode the message using the right keys). 
+The encryption process of the file consists at password-protecting it using the [AES algorithm] ("https://fr.wikipedia.org/wiki/Advanced_Encryption_Standard") (Rijndael). The particularity of this encryption method is that it is a two-way algorithm (possibility to code and decode the message using the right keys). 
 Independently of the file encryption itself, a password for the file is set as being the hash value (SHA256) of the initial hash of the uploaded file (MD5sum root identity described at 2.1.1) using the user’s private and public keys. Those keys are securely stored (double password protected*) into the 2PS “wallet” (platform). 
 
 <img width="400" alt="simplified encryption principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/simplified%20principle.png?raw=true"> <img width="400" alt="double password encryption" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/double%20password%20encryption.png?raw=true">
