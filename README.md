@@ -293,7 +293,7 @@ In order to fight piracy and illegal copies more efficiently on the 2PS platform
 
 1.	**Screenshot detection**: if a screenshot attempt is detected, the screen becomes black for the time of the shot.
 
-2.	**On screen video recording**: videos are paused if the software detects such an attack;
+2.	**On screen video/music recording**: music and video files are paused if the software detects such an attack;
 
 3.	**Copy-paste**: documents are read only (appear like an image) disregarding the ownership state of the user. Thus, even if the owner has a full ownership over the copy he is not authorized to edit it or copy paste it.
 
