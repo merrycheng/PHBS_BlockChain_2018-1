@@ -1,7 +1,7 @@
 # 2PS: A Proof-of -Ownership P2P file-sharing platform 
-Arthur MEUNIER
-arthur.meunier@cpe.fr
-www.2ps.io
+* Arthur MEUNIER
+* arthur.meunier@cpe.fr
+* www.2ps.io
 
 
 ## Abstract. 
@@ -170,6 +170,8 @@ Regarding the technical management of authorizations and ownership’s transfer 
 3-	The corresponding authorization over the file is then available to the buyer able to use his private key to unlock the file, as it is now recorded into the blockchain.
 
 The following figure describes different situations of ownership transfer:
+
+<img width="648" alt="principle" src="https://github.com/YunxiaShi/PHBS_BlockChain_2018/blob/master/principle.png">
  
 User3 bought full ownership through a smart contract from the file’s native owner User1 for 30 2PS and has a full access for an unlimited time. At some point, User 3 decides to sell her rights over the file to User4 for 29 2PS. Once the smart contract is executed, User3 lose her rights over the file to User4. 
 User2 only bought a 30 days streaming (read-only) period from User1 for 5 2PS. She is not in the capacity to resell this contract after making use of the file (It might eventually become a possibility in a further update).
