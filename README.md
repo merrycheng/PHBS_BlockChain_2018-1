@@ -1,8 +1,8 @@
-# 2PS: A Proof-of -Ownership P2P file-sharing platform 
+# 2PS: A Proof-of-Ownership P2P file-sharing platform 
 * Arthur MEUNIER
 * arthur.meunier@cpe.fr
 * www.2ps.io
-<img width="100" alt="principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/2ps%20icon.png?raw=true">
+<img width="100" alt="2PS icon" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/2ps%20icon.png?raw=true">
 
 ## Abstract. 
 
@@ -144,11 +144,11 @@ Users are able to drag and drop or upload files into the 2PS wallet’s interfac
 The encryption process of the file consists at password-protecting it using the AES algorithm (Rijndael). The particularity of this encryption method is that it is a two-way algorithm (possibility to code and decode the message using the right keys). 
 Independently of the file encryption itself, a password for the file is set as being the hash value (SHA256) of the initial hash of the uploaded file (MD5sum root identity described at 2.1.1) using the user’s private and public keys. Those keys are securely stored (double password protected*) into the 2PS “wallet” (platform). 
 
-<img width="400" alt="principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/simplified%20principle.png?raw=true"> <img width="400" alt="principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/double%20password%20encryption.png?raw=true">
+<img width="400" alt="simplified encryption principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/simplified%20principle.png?raw=true"> <img width="400" alt="double password encryption" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/double%20password%20encryption.png?raw=true">
               
 In fact, the encrypted file does not accept the password itself to decrypt the file but **any private key able to generate it from the Root ID**. Previous scheme was given to explain the main principle but is incomplete and can’t work properly without the use of the blockchain:
 
-<img width="900" alt="principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/extended%20principle.png?raw=true"> 
+<img width="900" alt="extended encryption principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/extended%20principle.png?raw=true"> 
  
 In practice, the encrypted file refers to a transaction ID in the blockchain from which it will gather (using blockchain explorer) the required conditions to decrypt the file (the contract passed and stored inside the blockchain contains the conditions for which the file can be decrypted):
 
@@ -219,7 +219,7 @@ As an incentive for users to share their hardware and connectivity, fees taken f
 
 During the launching period and over a period of 10 years, 10% of the total supply of the 2PS token will be released progressively with an increasing difficulty. It is designed to give extra rewards and incentives for people sharing their resources at the beginning: 
 
-<img width="500" img align="100" alt="principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/incentives.png?raw=true">
+<img align="100" img width="500" alt="incentives" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/incentives.png?raw=true">
 
 ## 8.3. Going offline issue:
 
@@ -288,5 +288,5 @@ We will progressively reinforce the team after the first round of presales and s
 
 ### IMPORTANT DISCLAIMER: This whitepaper represents the current idea the 2PS team is having of its product and is subject to change without notice. Nothing should be interpreted as a statement of fact or promise in any kind. It is released in order to give a general understanding of the 2PS concept.
 
-<img width="300" img align="200" alt="principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/2ps%20icon.png?raw=true">
+<img align="200" img width="300" alt="2PS icon" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/2ps%20icon.png?raw=true">
 	
