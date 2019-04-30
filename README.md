@@ -31,13 +31,13 @@ Building a trusted, decentralized and blockchain-enabled authentication protocol
 
 2PS is built by taking advantage of the EOS ecosystem and its smart-contracts capabilities. EOS is chosen as 2PS main-net over other likewise solutions such as ETH or NEO for the following reasons (as of today):
 
-•	Scalability: EOS can process about 1 million transactions per second versus 10,000 for NEO and about 30 for ETH making transactions faster and providing higher reliability for projects requiring a potentially large traffic as 2PS. 
+•	**Scalability**: EOS can process about 1 million transactions per second versus 10,000 for NEO and about 30 for ETH making transactions faster and providing higher reliability for projects requiring a potentially large traffic as 2PS. 
 
-•	DPOS (Decentralized proof of stake): This consensus mechanism developed for EOS allows to minimize the hashing power needed to ensure transactions are valid and secure, while not requiring a particularly large coin’s distribution to entrust the consensus compared to POW and POS respectively.
+•	**DPOS (Decentralized proof of stake)**: This consensus mechanism developed for EOS allows to minimize the hashing power needed to ensure transactions are valid and secure, while not requiring a particularly large coin’s distribution to entrust the consensus compared to POW and POS respectively.
 
-•	Developer friendly: EOSIO software gives developers the possibility to use system languages such as C++ or JAVA for the development of higher complexity smart-contracts. This environment also allows to link such smart contracts to the EOSIO software in the form of DAPPS (Decentralized applications) able to run autonomously off-chain.
+•	**Developer friendly**: EOSIO software gives developers the possibility to use system languages such as C++ or JAVA for the development of higher complexity smart-contracts. This environment also allows to link such smart contracts to the EOSIO software in the form of DAPPS (Decentralized applications) able to run autonomously off-chain.
 
-For more information about EOS, please refer to Block.one whitepaper available on GitHub.
+*For more information about EOS, please refer to Block.one whitepaper available on GitHub.
 
 # 4. The 2PS Token:
 
@@ -58,7 +58,7 @@ Initial token will have a supply of 10,000,000,000 2PS with a sub unit of 10-9. 
 -	ITO (pre-sales in 3 rounds): 30%
 -	Airdrop to existing EOS wallets: 10%
 -	Further airdrops: 15%
--	* *Extra incentives for users to share resources: 10%
+-	*Extra incentives for users to share resources: 10%
 -	Reserve for operations and marketing: 10%
 -	Project development and funding: 20%
 -	Developing team: 5%
