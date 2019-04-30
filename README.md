@@ -41,17 +41,17 @@ For more information about EOS, please refer to Block.one whitepaper available o
 
 # 4. The 2PS Token:
 
-## 1. First phase:
+## 4.1. First phase:
 
 The 2PS token is created by opening a smart contract on the EOS blockchain (EOS itself was started as an ERC20 opened on ETH blockchain). By starting the 2PS project out of the EOS environment, the main advantages offered by the EOS mainchain (security, scalability, stability and existing user database) are leveraged for the project, which limits the initial coding work exclusively to the deployment of the 2PS platform and thus, leading towards a quicker release of the said platform. 
 
-## 2. Second phase:
+## 4.2. Second phase:
 
 In a second development phase, however, a separate 2PS main chain, optimized for its exclusive use (Thus allowing more flexibility for further improvements), is planned to be released as a hard fork of EOS with potential modifications of its source code and a conversion ratio from the initial 2PS token of 1:1. 
 
 2PS token is meant to be used as the main payment system through the 2PS platform in order to settle transactions quickly at low fees. 
 
-## 3. Supply and distribution:
+## 4.3. Supply and distribution:
  	
 Initial token will have a supply of 10,000,000,000 2PS with a sub unit of 10-9. Such a large distribution has been proven to favor a wider distribution between users than lower amounts, helping to fight speculation and monopolies. The token is 90%* pre-minted (see 8a) with an initial global distribution as follow:
 
@@ -75,52 +75,54 @@ The 2PS wallet is designed not only to hold 2PS tokens but to assist users throu
 
 # 6. Uploading files: 
 
-## 1. Original file: definition
+## 6.1. Rules and conditions:
+
+### 6.1.1 Original file: definition
 
 The 2PS platform is built with AI and machine learning algorithms here to determine if an uploaded content is unique before publication on the platform. By comparing the file to online public databases, it seeks for existing similarities (Similar to what Shazaam is for music, google image for images, plagiarism algorithms for texts and documents and automatic verifications on YouTube for videos). 
 
 In other words, if the content is already present elsewhere else over the web, it won’t be possible to upload it on 2PS, except by fulfilling special conditions leading to obtain a fully verified official account (See 1.7).
 
-## 2. Users verification:
+### 6.1.2. Users verification:
 
 As 2PS is not meant to be an anonymous platform but a place where authors and file’s owners’ rights are protected, users who want to upload content and consequently legitimately claim an ownership over digital files have to provide identity proofs (ex: picture holding passport or company registration number). 
 
 2PS uses automatic tools as passport scanning and facial recognition AI softwares to verify users faster. In case of conflicts, human verifications might occur. In such case, the 2PS team keeps the right to decline incomplete or suspicious applications at any time and at its discretion.
 Users whom do not use the uploading tool (buy only) do not require to register their identity on 2PS.
 
-## 3. Initial “Proof of Ownership”:
+### 6.1.3. Initial “Proof of Ownership”:
 
 	Every file uploaded is recorded along its owner public identity (public key) into the blockchain and would consequently constitute the initial “Proof of Ownership” on the platform. 2PS is engaged to verify users and keep the record of their personal information offline once the account has been verified in order to protect users’ identity and privacy.
 
 Note that in this context, and in case of failure of the algorithm check, users who upload content on which they have no real ownership won’t be protected against legal lawsuits from the file’s legal owner. The later can eventually use the blockchain record as proof.
 
-## 4. Implications:
+### 6.1.4. Implications:
 
-Since the novelty and uniqueness of the content is something enforced by the 2PS platform in order to protect legal files owners, files that are already available online won’t be able to be uploaded freely. If well-known artists, production companies and other recognized professionals and institutions will be able to quickly obtain a verified account (allowing them to bypass algorithms and upload files already available on other online platforms), it might not be the case for smaller artists, authors and editions companies. This point is discussed in 6.1.5 and 6.1.8
+Since the novelty and uniqueness of the content is something enforced by the 2PS platform in order to protect legal files owners, files that are already available online won’t be able to be uploaded freely. If well-known artists, production companies and other recognized professionals and institutions will be able to quickly obtain a verified account (allowing them to bypass algorithms and upload files already available on other online platforms), it might not be the case for smaller artists, authors and editions companies. This point is discussed in 6.5 and 6.8
 
-## 5. As for patents:
+### 6.1.5. As for patents:
 
 A patent application can be rejected on the basis that the invention is already publicly disclosed or present high similarities with another existing invention. It is the same general principle applied on 2PS platform for digital files’ acceptation.
 
 In this context, 2PS can be considered as a “patent registration application” for digital files. As for patents, users first deposit and go through the application process before making public use of their invention, digital files providers might want to protect their work by uploading it and going through the publication process on 2PS before uploading it anywhere else on internet. 
 
-## 6. Benefits for users:
+### 6.1.6 Benefits for users:
 
 Once the file has been uploaded on the 2PS platform (consequently into the blockchain), it is possible to claim its legal ownership disregarding on which other platform they share it afterwards, the 2PS blockchain’s record accounting as a proof of anteriority. 
 
 Note that if files are protected against duplication inside the 2PS environment, content shared afterwards on other third party’s platforms, which might not meet the same security standards, is not of 2PS responsibility in case of copy, duplication or theft. 
 
-## 7. Fully verified (trusted) accounts:
+### 6.1.7. Fully verified (trusted) accounts:
 
 Content providers that already manage and monetize former content (published on the web prior 2PS launch) might also want to monetize them on the 2PS platform. In such situation, it would be possible to apply for a fully verified account implying a higher grade identity verification process (for example, but not limited to: company registration details, bank account information, legal representative contact).
 
-## 8. Other accounts:
+### 6.1.8. Other accounts:
 
 If a user is an original content provider but has already publicly shared the content somewhere on the web, this participant might not be able to pass the similarity check. In such case, the user has to contact the 2PS team and will be asked to provide extensive proof of his ownership over the content to be able to publish it. At any time, the 2PS team maintain its right to ask for extra documents or even decline the application.
 
-# 2. File uploading: step by step guide
+## 6.2. File uploading: step by step guide
 
-## 1. Uploading:
+### 6.2.1. Uploading:
 
 Users are able to drag and drop or upload files into the 2PS wallet’s interface. By doing so, several mechanisms occur:
 1)  The file is hashed (MD5) which will serve its Root Identity on the 2PS network.
@@ -130,7 +132,7 @@ Users are able to drag and drop or upload files into the 2PS wallet’s interfac
 5)  Once step 4 is validated, a transaction (smart contract) is open on the EOS blockchain and the file’s details are incorporated inside (Subject to fees).
 6)  The file becomes registered and available in the 2PS platform’s P2P sharing interface;
 
-## 2. Encryption (step 2.1.3)
+### 6.2.2 Encryption (step 2.1.3)
 
 The encryption process of the file consists at password-protecting it using the AES algorithm (Rijndael). The particularity of this encryption method is that it is a two-way algorithm (possibility to code and decode the message using the right keys). 
 Independently of the file encryption itself, a password for the file is set as being the hash value (SHA256) of the initial hash of the uploaded file (MD5sum root identity described at 2.1.1) using the user’s private and public keys securely stored (double password protected*) into the 2PS “wallet” (platform). 
@@ -148,7 +150,7 @@ In other words, the file will first require the 2PS platform to look after the l
 The file encryption protocol, once connected to the contract will read the authorized password. If the user can provide the same password than the one in the blockchain by hashing the Root ID of the file with his private key, then the ownership is confirmed and the file can be opened.
 If the condition is not met, the encrypted file and the 2PS platform will consider the user as not being a legitimate owner of the file and will decline the access.
 
-## 7. Ownership management:
+# 7. Ownership management:
 
 Since the 2PS platform is made to allow file transfers between users, 3 main cases are anticipated:
 1.	Full transfer of ownership (previous owner lose rights on the file);
@@ -178,33 +180,33 @@ P2P (Peer-to-peer) protocol is an exchange model where each entity of the networ
 In a situation for which only the native owner would broadcast the file(s) he owns, the availability of the file(s) for other participants is very dependent of this user’s connectivity and availability, making the system potentially inefficient. 
 2PS offers the possibility for any user to allocate storage space (disk) and uploading bandwidth (emission) in order to serve the efficiency of the 2PS network in terms of files distribution. 
 
-## 1. Protocol:
+## 8.1. Protocol:
 
 In order to enhance file’s availability and decentralization, once uploaded, files are divided into smaller parts (usually 60 but may depends on the file’s size) using the Reed-Solomon (erasure correction) technology allowing to correct sampling errors even if files received are partially missing or corrupted. 
 Generated segments are encrypted separately using the AES protocol on the same basis than described previously. It is then randomly distributed between participants whom are sharing their disk storage among the network with a distribution ratio of 3:1 (meaning the files are hosted three times on the network or that 20 out of 60 segments allows to recover the file fully). 
 The distribution is managed by smart contracts to record where the different pieces are located on the network at any time. Such a system is designed to reduce dependency, increase file’s distribution and minimize points of failure. 
 
-## 2. Incentives and remuneration:
+## 8.2. Incentives and remuneration:
 
 As an incentive for users to share their hardware and connectivity, fees taken for uploading a new files or opening a 2PS smart contract (transactions) are distributed among these users sharing their resources according to the percentage shared compared to the whole network. Fees are calculated and redistributed automatically every 24h (UTC+0).
 
 During the launching period and over a period of 10 years, 10% of the total supply of the 2PS token will be released progressively with an increasing difficulty. It is designed to give extra rewards and incentives for people sharing their resources at the beginning:  
 
-## 3. Going offline issue:
+## 8.3. Going offline issue:
 
 If a sharing user is found offline for more than 10/24h or 6h in a raw, all incentives for this user are cancelled for the (24h) period. If the offline period reaches 7 days in a raw, files allocated to this user are duplicated and attributed to other nodes. This faulty user is also forbidden of sharing any files (and consequently get rewards) for 30 days following the situation. 
 
 # 9. 2PS Marketplace:
 
-## 1. Organization:
+## 9.1. Organization:
 
 The marketplace is a dongle on the 2PS Platform which is organized by sections (music, video, films, TV shows, books, cartoons…) with advanced research tools and filters (novelty, price, rating…).
 
-## 2. User reviews:
+## 9.2. User reviews:
 
 Any user is able to submit comments and rating through the application. Both are recorded in the blockchain. Users are remembered of it since they will need to approve (sign) the review before posting it (considered as a transaction). Such a context may help to limit fake reviews and inappropriate comments.
 
-## 3. Intellectual property and reclamations:
+## 9.3. Intellectual property and reclamations:
 
 Abuse in regarding ownership rights are made through the marketplace. Any users finding and being able to provide evidences than another user is committing fraud, property theft or any piracy-related issue can submit a complaint to 2PS. 
 In such situation, 2PS will study the case regarding the information provided in the complaint and those at its disposal. In the case the complaint is justified, the fraudulent account can be frozen and its files deleted. Reporting user might be rewarded according to the severity (or punished with blocked functionalities if abusive use).
@@ -214,7 +216,7 @@ In the case 2PS has to froze/delete this account for copyrights infringement, no
 
 In a second phase of deployment, when the amount of verified users become consequent enough and the file-checking algorithms will have proven their efficiency, this feature will be activated.
 
-## 4. Fees:
+## 9.4. Fees:
 
 Opening a sharing (selling) contract for a file on 2PS is generating 2 kinds of fees:
 1-	Storage fees: When a contract is opened, the file’s owner can determine a duration for it to stay valid. Indeed, the contract can’t be open and hosted for free forever*. It also has to pay for the service given by hosts that borrow their resources to make the file available. These fees are taken as 0.01% of the contract value per day. It is also a way to keep only valuable content available to users.
