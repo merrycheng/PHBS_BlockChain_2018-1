@@ -38,7 +38,7 @@ Building a trusted, decentralized and blockchain-enabled authentication protocol
 
 •	**Developer friendly**: EOSIO software gives developers the possibility to use system languages such as C++ or JAVA for the development of higher complexity smart-contracts. This environment also allows to link such smart contracts to the EOSIO software in the form of DAPPS (Decentralized applications) able to run autonomously off-chain.
 
-*For more information about EOS, please refer to Block.one whitepaper available on GitHub.
+*For more information about EOS, please refer to [Block.one whitepaper](https://github.com/Isotopist/Documentation/blob/master/TechnicalWhitePaper.md) available on GitHub.
 
 # 4. The 2PS Token:
 
@@ -143,7 +143,7 @@ Users are able to drag and drop or upload files into the 2PS wallet’s interfac
 
 ### 6.2.2 Encryption (step 2.1.3)
 
-The encryption process of the file consists at password-protecting it using the [AES algorithm] ("https://fr.wikipedia.org/wiki/Advanced_Encryption_Standard") (Rijndael). The particularity of this encryption method is that it is a two-way algorithm (possibility to code and decode the message using the right keys). 
+The encryption process of the file consists at password-protecting it using the [AES algorithm] (https://fr.wikipedia.org/wiki/Advanced_Encryption_Standard) (Rijndael). The particularity of this encryption method is that it is a two-way algorithm (possibility to code and decode the message using the right keys). 
 Independently of the file encryption itself, a password for the file is set as being the hash value (SHA256) of the initial hash of the uploaded file (MD5sum root identity described at 2.1.1) using the user’s private and public keys. Those keys are securely stored (double password protected*) into the 2PS “wallet” (platform). 
 
 <img width="400" alt="simplified encryption principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/simplified%20principle.png?raw=true"> <img width="400" alt="double password encryption" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/double%20password%20encryption.png?raw=true">
@@ -160,7 +160,9 @@ In practice, the encrypted file refers to a transaction ID in the blockchain fro
 
 When any user tries to open an encrypted file, the platform’s program automatically interacts with the blockchain to access those information. 
 
-In order to read or open the file, the following condition must be satisfied: the user’s private key is able to generate **P1=H(Root ID).**
+In order to read or open the file, the following condition must be satisfied: the user’s private key is able to generate:
+
+<p align="center"> **P1=HASH(Root ID).** </p>
 
 In other words, the file will first require the 2PS platform to look after the last contract (transaction) passed by the user (identified by public key, included in any contract passed) within the blockchain and regarding the file (identified by its Root ID). 
 The file encryption protocol, once connected to the contract will read the authorized password. If the user can provide the same password than the one in the blockchain by hashing the Root ID of the file with his private key, then the ownership is confirmed and the file can be opened.
@@ -201,7 +203,7 @@ User2 only bought a 30 days streaming (read-only) period from User1 for 5 2PS. S
 
 # 8. Files distribution and P2P sharing protocol:
 
-P2P (Peer-to-peer) protocol is an exchange model where each entity of the network is simultaneously client and server. In the case of 2PS, each participant can be considered as an independent node of the network, sharing a portion of the files in use on the 2PS platform. To some extent, it is quite similar to staking when participants have to stay connected to the network in order to participate in the consensus.
+[P2P (Peer-to-peer) protocol] (https://en.wikipedia.org/wiki/Peer-to-peer) is an exchange model where each entity of the network is simultaneously client and server. In the case of 2PS, each participant can be considered as an independent node of the network, sharing a portion of the files in use on the 2PS platform. To some extent, it is quite similar to staking when participants have to stay connected to the network in order to participate in the consensus.
 
 In a situation for which only the native owner would broadcast the file(s) he owns, the availability of the file(s) for other participants is very dependent of this user’s connectivity and availability, making the system potentially inefficient.
 
@@ -209,7 +211,7 @@ In a situation for which only the native owner would broadcast the file(s) he ow
 
 ## 8.1. Protocol:
 
-In order to enhance file’s availability and decentralization, once uploaded, files are divided into smaller parts (usually 60 but may depends on the file’s size) using the Reed-Solomon (erasure correction) technology allowing to correct sampling errors even if files received are partially missing or corrupted. 
+In order to enhance file’s availability and decentralization, once uploaded, files are divided into smaller parts (usually 60 but may depends on the file’s size) using the [Reed-Solomon] (https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction) (erasure correction) technology allowing to [correct sampling errors](https://en.wikipedia.org/wiki/Folded_Reed%E2%80%93Solomon_code) even if files received are partially missing or corrupted. 
 
 Generated segments are encrypted separately using the AES protocol on the same basis than described previously. It is then randomly distributed between participants whom are sharing their disk storage among the network with a distribution ratio of 3:1 (meaning the files are hosted three times on the network or that 20 out of 60 segments allows to recover the file fully). 
 
