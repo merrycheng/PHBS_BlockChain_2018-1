@@ -2,7 +2,7 @@
 * Arthur MEUNIER
 * arthur.meunier@cpe.fr
 * www.2ps.io
-<img width="150" alt="principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/2ps%20icon.png?raw=true">
+<img width="100" alt="principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/2ps%20icon.png?raw=true">
 
 ## Abstract. 
 
