@@ -187,11 +187,11 @@ Thus, it creates a possibility of a parallel economy for which content’s price
 
 Regarding the technical management of authorizations and ownership’s transfer through the blockchain, every transaction between a seller (native owner or not) and a buyer is settled by opening a smart contract into the blockchain:
 
-1-	The Seller define a price in 2PS token for the file and open a contract regarding the future rights on the file that will be given to the buyer (example: read only). This smart contract includes the public key of the seller and the Root ID of the file to be sold; 
+1.	The Seller define a price in 2PS token for the file and open a contract regarding the future rights on the file that will be given to the buyer (example: read only). This smart contract includes the public key of the seller and the Root ID of the file to be sold; 
 
-2-	Once a buyer is agreed on price and conditions, said user is transferring the amount of 2PS token asked by the seller to the contract. The buyer’s public key and the hash of the file’s Root ID (made with his private key) is included on the contract which is then included into the blockchain.
+2.	Once a buyer is agreed on price and conditions, said user is transferring the amount of 2PS token asked by the seller to the contract. The buyer’s public key and the hash of the file’s Root ID (made with his private key) is included on the contract which is then included into the blockchain.
 
-3-	The corresponding authorization over the file is then available to the buyer able to use his private key to unlock the file, as it is now recorded into the blockchain.
+3.	The corresponding authorization over the file is then available to the buyer able to use his private key to unlock the file, as it is now recorded into the blockchain.
 
 The following figure describes different situations of ownership transfer:
 
@@ -221,7 +221,7 @@ The distribution is managed by smart contracts to record where the different pie
 
 As an incentive for users to share their hardware and connectivity, fees taken for uploading a new files or opening a 2PS smart contract (transactions) are distributed among these users sharing their resources according to the percentage shared compared to the whole network. Fees are calculated and redistributed automatically every 24h (UTC+0).
 
-During the launching period and over a period of 10 years, 10% of the total supply of the 2PS token will be released progressively with an increasing difficulty. It is designed to give extra rewards and incentives for people sharing their resources at the beginning: 
+After the launch of the 2PS platform and over a period of 10 years, 10% of the total supply of the 2PS token will be released progressively with an increasing difficulty. It is designed to give extra rewards and incentives for people sharing their resources at the beginning: 
 
 <p align="center">
 <img align="100" img width="500" alt="incentives" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/incentives.png?raw=true">
