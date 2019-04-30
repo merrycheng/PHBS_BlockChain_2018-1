@@ -144,11 +144,11 @@ Users are able to drag and drop or upload files into the 2PS wallet’s interfac
 The encryption process of the file consists at password-protecting it using the AES algorithm (Rijndael). The particularity of this encryption method is that it is a two-way algorithm (possibility to code and decode the message using the right keys). 
 Independently of the file encryption itself, a password for the file is set as being the hash value (SHA256) of the initial hash of the uploaded file (MD5sum root identity described at 2.1.1) using the user’s private and public keys. Those keys are securely stored (double password protected*) into the 2PS “wallet” (platform). 
 
-<img width="500" alt="principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/simplified%20principle.png?raw=true"> <img width="500" alt="principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/double%20password%20encryption.png?raw=true">
+<img width="400" alt="principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/simplified%20principle.png?raw=true"> <img width="400" alt="principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/double%20password%20encryption.png?raw=true">
               
 In fact, the encrypted file does not accept the password itself to decrypt the file but **any private key able to generate it from the Root ID**. Previous scheme was given to explain the main principle but is incomplete and can’t work properly without the use of the blockchain:
 
-<img width="500" alt="principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/extended%20principle.png?raw=true"> 
+<img width="900" alt="principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/extended%20principle.png?raw=true"> 
  
 In practice, the encrypted file refers to a transaction ID in the blockchain from which it will gather (using blockchain explorer) the required conditions to decrypt the file (the contract passed and stored inside the blockchain contains the conditions for which the file can be decrypted):
 
