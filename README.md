@@ -107,7 +107,7 @@ Since the novelty and uniqueness of the content is something enforced by the 2PS
 
 A patent application can be rejected on the basis that the invention is already publicly disclosed or present high similarities with another existing invention. It is the same general principle applied on 2PS platform for digital files’ acceptation.
 
-In this context, 2PS can be considered as a “patent registration application” for digital files. As for patents, users first deposit and go through the application process before making public use of their invention, digital files providers might want to protect their work by uploading it and going through the publication process on 2PS before uploading it anywhere else on internet. 
+In this context, 2PS can be considered as a “patent registration application” for digital files. As for patents, users first deposit and go through the application process before making public use of their invention, digital files providers might want to protect their work by uploading it and going through the publication process on 2PS before sharing it anywhere else on internet. 
 
 ### 6.1.6 Benefits for users:
 
