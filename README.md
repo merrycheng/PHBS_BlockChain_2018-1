@@ -173,11 +173,11 @@ If the condition is not met, the encrypted file and the 2PS platform will consid
 
 Since the 2PS platform is made to allow file transfers between users, 3 main cases are anticipated:
 
-1. Full transfer of ownership (previous owner lose rights on the file);
+1. **Full transfer of ownership**: Previous owner lose rights on the file;
 
-2. Read only: the file can be read as much as the user want but can’t be exchanged (partial ownership);
+2. **Read only**: The file can be read as much as the user want but can’t be exchanged (partial ownership);
 
-3. Temporary access: access is limited in time or by number of views.
+3. **Temporary access**: Access is limited in time or by number of views.
 
 Regardless of these 3 cases, **the native owner of the file (the user who first uploaded it) will always have the possibility to emit new copies of the file. 
 
