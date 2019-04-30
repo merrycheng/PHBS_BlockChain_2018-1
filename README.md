@@ -292,7 +292,11 @@ Meanwhile, first pre-sale round will open on June 1th on the 2PS website (www.2P
 We will progressively reinforce the team after the first round of presales and should be able to release a functional beta version with limited features of the 2PS platform by the end 2019 for community review. We anticipate a full deployment for Q.2 2020 and a release of the full ownership contracts one year later (Q2.2021)
 
 
+
+
 ### IMPORTANT DISCLAIMER: This whitepaper represents the current idea the 2PS team is having of its product and is subject to change without notice. Nothing should be interpreted as a statement of fact or promise in any kind. It is released in order to give a general understanding of the 2PS concept.
+
+
 
 <p align="center">
 <img align="200" img width="300" alt="2PS icon" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/2ps%20icon.png?raw=true">
