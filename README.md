@@ -179,7 +179,7 @@ Since the 2PS platform is made to allow file transfers between users, 3 main cas
 
 3. **Temporary access**: Access is limited in time or by number of views.
 
-Regardless of these 3 cases, **the native owner of the file (the user who first uploaded it) will always have the possibility to emit new copies of the file. 
+Regardless of these 3 cases, **the native owner of the file (the user who first uploaded it) will always have the possibility to emit new copies of the file.** 
 
 It involves that, in the case of a full transfer of ownership, buyers can resell their copies of the file through the 2PS marketplace, and consequently, compete with the native owner. 
 
