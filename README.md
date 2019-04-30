@@ -195,7 +195,7 @@ Regarding the technical management of authorizations and ownership’s transfer 
 
 The following figure describes different situations of ownership transfer:
 
-<img width="900" alt="principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/transfert%20of%20ownership%20image.png?raw=true">
+<img width="900" alt="principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/transfert%20of%20ownership.png?raw=true">
  
 User3 bought full ownership through a smart contract from the file’s native owner User1 for 30 2PS and has a full access for an unlimited time. At some point, User 3 decides to sell her rights over the file to User4 for 29 2PS. Once the smart contract is executed, User3 lose her rights over the file to User4. 
 
