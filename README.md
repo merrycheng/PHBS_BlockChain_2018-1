@@ -267,11 +267,19 @@ Opening a sharing (selling) contract for a file on 2PS is generating 2 kinds of 
 
 Native owners are able to automatically emit copies through smart contracts into the 2PS platform. In the case they choose to propose to sell a full ownership over the copy (that is consequently more valuable and possess a potential higher market value), they might potentially fall into the case for which offer and demand drive the price up or down for the file.
 
-Example 1: The native owner choose to sell his short-story video with a contract passed for 100 copies given at full ownership and also decides to sell it only on 2PS at, say, 2000 2PS. The public found that this short-story is highly valuable content and get positive reviews (5 stars) from all users whom watched it. The demand is rising and among the 100 that had the chance to acquirer one copy. Only a few are willing to sell it back. In between, the native owner lost the original file because of a technical issue and is unable to emit new copies to satisfy the rising demand. Thus it is very likely that the high demand for the file will drive its price up.
+**Example 1**: 
 
-Example 2: The native owner sell his video on a smart contract with full ownership but this time with no quantity limits. Thousands buy it on 2PS marketplace and find the content valuable at first but is little by little losing interest. Many users try to resell copies but the offer is large and the demand not matching. In this situation, it is likely that the price for the file will goes down.
+The native owner choose to sell his short-story video with a contract passed for 100 copies given at full ownership and also decides to sell it only on 2PS at, say, 2000 2PS. The public found that this short-story is highly valuable content and get positive reviews (5 stars) from all users whom watched it. The demand is rising and among the 100 that had the chance to acquirer one copy. Only a few are willing to sell it back. In between, the native owner lost the original file because of a technical issue and is unable to emit new copies to satisfy the rising demand. 
 
-Content providers might consequently define carefully their diffusion strategy before opening a smart contract. A step-by-step approach by controlling the supply relatively to the market condition might be a wise move.
+Thus, it is very likely that the high demand for the file will drive its price up.
+
+**Example 2**: 
+
+The native owner sell his video on a smart contract with full ownership but this time with no quantity limits. Thousands buy it on 2PS marketplace and find the content valuable at first but is little by little losing interest. Many users try to resell copies but the offer is large and the demand not matching. 
+
+In this situation, it is likely that the price for the file will progressively go down on the market.
+
+Consequently, content providers might want to define carefully their diffusion strategy before opening a smart contract for a file on the 2PS platform. A step-by-step approach by controlling the supply relatively to the market's conditions (demand and reviews) might be a wise move.
 
 # 10. User-to-User direct messaging;
 
