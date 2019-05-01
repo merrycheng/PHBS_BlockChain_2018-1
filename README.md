@@ -281,7 +281,7 @@ Opening a sharing (selling) contract for a file on 2PS is generating 2 kinds of 
 
 ## 9.5. Market economy:
 
-Native owners are able to automatically emit copies through smart contracts into the 2PS platform. In the case they choose to propose to sell a full ownership over the copy (that is consequently more valuable and possess a potential higher market value), they might potentially fall into the case for which offer and demand drive the price up or down for the file.
+We saw that native owners (right holders) are able to automatically set up the release of "copies" (or rights transfert) through smart contracts on the 2PS platform. Contracts with limited-time access or one-time streaming option are straightforward. However, in the case they decide to propose to sell a full ownership over the copy (that is consequently more valuable and possess a potential higher market value), they might potentially fall into the case for which competitive offer drive the price up or down for the file:
 
 **Example 1**: 
 
@@ -294,6 +294,12 @@ Thus, it is very likely that the high demand for this file will drive its price 
 The native owner sell his video on a smart contract with full ownership but this time with no quantity limits. Thousands of users buy it on the 2PS marketplace and find the content valuable at first but is little by little losing interest. Many users try to resell their copies but the offer is large and the demand not matching. 
 
 In this situation, it is likely that the price for the file will progressively go down on the market.
+
+**Example 3**: 
+
+An artist decide to share his music on 2PS for free to 1000 users by using a transfer of ownership contract in order to test the market. These users have the possibility to promote and resell his work. By doing so they raise the market price for the song way above the average value for this kind of content. The artist decides to progressivelly emit new contracts at a market value he coniders appropriate.
+
+In this situation, the price of the file might be steady for a while.
 
 *Consequently, content providers might want to define carefully their diffusion strategy before opening a smart contract for a file on the 2PS platform. A step-by-step approach by controlling the supply relatively to the market's conditions (demand and reviews) might be a wise move.
 
