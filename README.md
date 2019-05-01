@@ -35,10 +35,10 @@ A bunch of blockchain-based companies have been working on fighting piracy. [Ste
 
 Other relevant applications include:
 
-• [Livepeer](https://livepeer.org/): Built on Ethereum, Livepeer is developping a blockchain-based p2p uplading platform (ETH Dapp). It is providing a service for developers to stream videos at lower costs to fit their projects.  
-• [Choon](https://www.choon.co/): Choon is to music what Steem is to videos. <*Tired of earning nothing for your music on Soundcloud and Spotify? Upload your tracks to Choon and join a community of musicians reinventing the music industry.>* Choon is built on ethereum as well.
+• [Livepeer](https://livepeer.org/): Built on Ethereum, Livepeer is developing a blockchain-based p2p platform (Dapp). It is providing a service for developers to stream videos at lower costs to fit their projects.  
+• [Choon](https://www.choon.co/): Choon is to music what Steem is to videos. <*Tired of earning nothing for your music on Soundcloud and Spotify? Upload your tracks to Choon and join a community of musicians reinventing the music industry.>* Choon is also built on ethereum.
 
-However, if those services aim to answer the question of the fair remuneration for artists and content providers, they do not explicitely address the question of piracy.
+If those services aim to answer the question of the fair remuneration for artists and content providers, they do not explicitely address the question of piracy.
 
 Building a broader platform, adapted to all types of media and able to verify that any user has acquired legitimate rights on a file before being able to play and/or open it, would consequently fill some of these gaps. Using smart contracts, 2PS is made to address this problematic.
 
@@ -46,7 +46,7 @@ Building a broader platform, adapted to all types of media and able to verify th
 
 2PS is built by taking advantage of the EOS ecosystem and its smart-contracts capabilities. EOS is chosen as 2PS main-net over other likewise solutions such as ETH or NEO for the following reasons (as of today):
 
-•	**Scalability**: EOS can process about 1 million transactions per second versus 10,000 for NEO and about 30 for ETH making transactions faster and providing higher reliability for projects requiring a potentially large traffic as 2PS. 
+•	**Scalability**: EOS can process about 1 million transactions per second versus 10,000 for NEO and about 30 for ETH making transactions faster and providing higher reliability for projects requiring a potentially large traffic such as 2PS. 
 
 •	**DPOS (Decentralized proof of stake)**: This consensus mechanism developed for EOS allows to minimize the hashing power needed to ensure transactions are valid and secure, while not requiring a particularly large coin’s distribution to entrust the consensus compared to POW and POS respectively.
 
