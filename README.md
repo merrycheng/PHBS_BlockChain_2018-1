@@ -168,7 +168,7 @@ In fact, the encrypted file does not accept the password itself to decrypt the f
 
 <img width="900" alt="extended encryption principle" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/extended%20principle.png?raw=true"> 
  
-In practice, the encrypted file refers to a transaction ID in the blockchain from which it will gather (using blockchain explorer) the required conditions to decrypt the file (= the contract passed and stored inside the blockchain contains the conditions for which the file can be decrypted):
+In practice, the encrypted file connects to transactions of interest (regarding the file and the user) in the blockchain from which it will gather (using blockchain explorer) the required conditions to decrypt the file (since contracts stored inside the blockchain contains the conditions for which the file can be decrypted):
 
 * The Root ID of the file;
 
@@ -195,9 +195,9 @@ Since the 2PS platform is made to allow file transfers between users, 3 main cas
 
 3. **Temporary access**: Access is limited in time or by number of views.
 
-Regardless of these 3 cases, **the native owner of the file (the user who first uploaded it) will always have the possibility to emit new copies of the file.** 
+Regardless of these 3 cases, **the native owner of the file (who owns the original file) will always have the possibility to encrypt and upload new copies of the file and to define permissions for it.** 
 
-It involves that, in the case of a full transfer of ownership, buyers can resell their copies of the file through the 2PS marketplace, and consequently, compete with the native owner. 
+It involves that, in the case of a **full transfer of ownership**, buyers can potentially resell their copies of the file through the 2PS marketplace, and, to some extent, compete with the native owner. 
 
 Thus, it creates a possibility of a parallel economy for which content’s price is influenced by the offer and demand for the files. This situation will be described in more details in the Marketplace section (See 9.5).
 
