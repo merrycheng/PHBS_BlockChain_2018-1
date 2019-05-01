@@ -3,6 +3,7 @@
 <p align="center"> Arthur MEUNIER </p>	
 <p align="center"> arthur.meunier@cpe.fr </p>
 <p align="center"> www.2ps.io </p>
+<p align="center"> 2019 - All rights reserved </p>
 <p align="center"><img width="100" alt="2PS icon" src="https://github.com/Isotopist/PHBS_BlockChain_2018/blob/master/2ps%20icon.png?raw=true"></p>
 
 ## Abstract. 
